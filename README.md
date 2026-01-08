@@ -1,6 +1,8 @@
 ## Perfil foi invadido, ESTÁ EM MANUTENÇÃO.
 
-Profissional de T.I altamente motivado com uma base sólida em hardware, redes e programação. Experiência comprovada como Help Desk e desenvolvedor freelancer. Conhecimento em Python, Java, SQL, HTML, CSS e Bootstrap.
+Computer Science student | Cybersecurity | Linux Power User | Developer 🛡️🐧
+Desenvolvedor apaixonado por segurança e infraestrutura. Minha jornada no código é guiada pela curiosidade de entender o "sob o capô", o que me levou a adotar o Linux como sistema principal.
+Foco no desenvolvimento de software resiliente e na exploração de vulnerabilidades para fins defensivos. No meu GitHub, você encontrará desde scripts de automação até projetos que envolvam intrincamente segurança.
 
 
 <div>
