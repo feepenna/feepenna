@@ -26,7 +26,9 @@ ATENÇÃO: MEU PERFIL HAVIA SIDO VIOLADO, SE AINDA ESTIVER SEM OS PROJETOS AINDA
  
 <div> 
   <a href="https://instagram.com/feepenna" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" target=" _blank"></a>
- <a href = "pennasec@protonmail.com"><img src="https://img.icons8.com/color/48/protonmail-2.png" target=" _blank"></a>
+ <a href="mailto:pennasec@protonmail.com?subject=Contato%20via%20GitHub">
+  <img src="https://img.icons8.com/color/48/protonmail-2.png" alt="ProtonMail">
+</a>
   <a href="https://www.linkedin.com/in/feepenna/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" _blank"></a> 
   
 </div>
