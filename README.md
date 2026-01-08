@@ -5,8 +5,17 @@ Profissional de T.I altamente motivado com uma base sólida em hardware, redes e
 
 <div>
 <a href="https://github.com/feepenna">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feepenna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feepenna&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feepenna/feepenna/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feepenna/feepenna/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/feepenna/feepenna/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,6 +23,7 @@ Profissional de T.I altamente motivado com uma base sólida em hardware, redes e
   <img align="center" alt="feehtml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="feecss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="feepython" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
   
   ##
  
