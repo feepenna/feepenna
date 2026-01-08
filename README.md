@@ -4,16 +4,7 @@ Profissional de T.I altamente motivado com uma base sólida em hardware, redes e
 
 
 <div>
-<a href="https://github.com/feepenna">
-    <img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/feepenna/feepenna/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/feepenna/feepenna/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/feepenna/feepenna/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
 
 ###
 </div>
