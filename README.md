@@ -1,6 +1,6 @@
-## Felipe Kauan Penna de Souza
+# Felipe Kauan Penna de Souza
 
-# Computer Science student | Cybersecurity | Linux Power User | Developer 🛡️🐧
+### Computer Science student | Cybersecurity | Linux Power User | Developer 🛡️🐧
 
 ##
 
