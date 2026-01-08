@@ -1,4 +1,4 @@
-# Felipe Kauan Penna de Souza
+# Felipe Penna
 
 ### Computer Science student | Cybersecurity | Linux Power User | Developer
 
@@ -25,8 +25,8 @@ ATENÇÃO: MEU PERFIL HAVIA SIDO VIOLADO, SE AINDA ESTIVER SEM OS PROJETOS AINDA
   ##
  
 <div> 
-  <a href="https://instagram.com/feepenna" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href = "mailto:felipennadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/feepenna" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/feepenna" target="_blank"><img src="https://icons8.com/icon/32323/instagram" target="_blank"></a>
+ <a href = "pennasec@protonmail.com"><img src="https://icons8.com/icon/Q8HkDlg5eBIc/protonmail" target="_blank"></a>
+  <a href="www.linkedin.com/in/feepenna" target="_blank"><img src="https://icons8.com/icon/13930/linkedin" target="_blank"></a> 
   
 </div>
