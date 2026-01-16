@@ -1,6 +1,6 @@
 # Felipe Penna
 
-### Computer Science student | Cybersecurity | Linux Power User | Developer
+### Computer Science student | Cybersecurity | Linux Infrastructure | Developer
 
 ##
 
