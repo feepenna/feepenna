@@ -1,6 +1,6 @@
 # Felipe Penna
 
-### Computer Science student | Cybersecurity | Linux Infrastructure | Developer
+### Computer Science Student λ | Cybersecurity | Blue Team | Linux Infrastructure
 
 ##
 
