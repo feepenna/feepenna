@@ -5,7 +5,7 @@
 ##
 
 Desenvolvedor apaixonado por segurança e infraestrutura. Minha jornada no código é guiada pela curiosidade de entender "o que tem debaixo do capô", o que me levou a adotar o Linux como sistema principal.
-Foco no desenvolvimento de software resiliente e na exploração de vulnerabilidades para fins defensivos. No meu GitHub, você encontrará desde scripts de automação até projetos que envolvam intrincamente segurança.
+Foco no desenvolvimento de software resiliente e na exploração de vulnerabilidades para fins defensivos. No meu GitHub, você encontrará desde scripts de automação até projetos que envolvam intrinsecamente segurança.
 ATENÇÃO: MEU PERFIL HAVIA SIDO VIOLADO, SE AINDA ESTIVER SEM OS PROJETOS AINDA ESTÃO EM RECUPERAÇÃO!!!
 
 
