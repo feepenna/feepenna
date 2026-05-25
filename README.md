@@ -1,6 +1,6 @@
 # Felipe Penna
 
-### Comṕuter Science Student | Blue Team & DFIR
+### Computer Science Student | Blue Team & DFIR
 
 ##
 
