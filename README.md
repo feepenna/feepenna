@@ -1,6 +1,6 @@
 # Felipe Penna
 
-### Information Security Intern | Blue Team · IR & DFIR | #OneBTB
+### CS Student | Blue Team & DFIR
 
 ##
 
