@@ -1,6 +1,6 @@
 # Felipe Penna
 
-### Computer Science Student λ | Cybersecurity | Blue Team | Linux Infrastructure
+### Information Security Intern | Blue Team · IR & DFIR | #OneBTB
 
 ##
 
