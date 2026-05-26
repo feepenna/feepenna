@@ -24,6 +24,7 @@ ATENÇÃO: MEU PERFIL HAVIA SIDO VIOLADO, SE AINDA ESTIVER SEM OS PROJETOS AINDA
   <img align="center" alt="feemysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="feeazure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
   <img align="center" alt="feedocker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
+  <img align="center" alt="feedocker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdstrike.svg"/>
   
   
 </div>
