@@ -7,6 +7,7 @@
 CS student & InfoSec Intern focused on Blue Team, IR and DFIR.
 Background in software development — I break down how systems are built to understand how they fail.
 Here you'll find automation scripts, DFIR tooling and security labs.
+
 🔵 Blue Team | 🔍 IR & DFIR | 🐧 Linux
 
 <div>
