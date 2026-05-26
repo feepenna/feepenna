@@ -1,13 +1,13 @@
 # Felipe Penna
 
-### Computer Science Student | Blue Team & DFIR
+### Information Security Intern | Blue Team · IR & DFIR
 
 ##
 
-Desenvolvedor apaixonado por segurança e infraestrutura. Minha jornada no código é guiada pela curiosidade de entender "o que tem debaixo do capô", o que me levou a adotar o Linux como sistema principal.
-Foco no desenvolvimento de software resiliente e na exploração de vulnerabilidades para fins defensivos. No meu GitHub, você encontrará desde scripts de automação até projetos que envolvam intrinsecamente segurança.
-ATENÇÃO: MEU PERFIL HAVIA SIDO VIOLADO, SE AINDA ESTIVER SEM OS PROJETOS AINDA ESTÃO EM RECUPERAÇÃO!!!
-
+CS student & InfoSec Intern focused on Blue Team, IR and DFIR.
+Background in software development — I break down how systems are built to understand how they fail.
+Here you'll find automation scripts, DFIR tooling and security labs.
+🔵 Blue Team | 🔍 IR & DFIR | 🐧 Linux
 
 <div>
 <img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
@@ -32,10 +32,9 @@ ATENÇÃO: MEU PERFIL HAVIA SIDO VIOLADO, SE AINDA ESTIVER SEM OS PROJETOS AINDA
   ##
  
 <div> 
-  <a href="https://instagram.com/feepenna" target="_blank"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" target=" _blank"></a>
  <a href="mailto:pennasec@protonmail.com?subject=Contato%20via%20GitHub">
   <img src="https://img.icons8.com/color/48/protonmail-2.png" alt="ProtonMail">
 </a>
-  <a href="https://www.linkedin.com/in/feepenna/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" _blank"></a> 
+  <a href="https://www.linkedin.com/in/feepenna/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" target="_blank"></a> 
   
 </div>
