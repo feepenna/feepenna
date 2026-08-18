@@ -1,6 +1,6 @@
 # Felipe Penna
 
-### Information Security Intern | Blue Team · IR & DFIR
+### Information Security Intern | Blue Team | DFIR | CTI | Threat Hunting | DevSecOps |
 
 ##
 
