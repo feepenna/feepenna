@@ -1,14 +1,14 @@
 # Felipe Penna
 
-### Information Security Intern | Blue Team | DFIR | CTI | Threat Hunting | DevSecOps |
+### Information Security Intern | Blue Team | IR | Threat Hunting | CTI | AppSec |
 
 ##
 
-CS student & InfoSec Intern focused on Blue Team, IR and DFIR.
+CS student & InfoSec Intern focused on Blue Team, IR, Threat Hunting, CTI and AppSec.
 Background in software development — I break down how systems are built to understand how they fail.
 Here you'll find automation scripts, DFIR tooling and security labs.
 
-🔵 Blue Team | 🔍 IR & DFIR | 🐧 Linux
+🔵 Blue Team | 🔍 IR & Threat Hunting | 🐧 Linux
 
 <div>
 <img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
