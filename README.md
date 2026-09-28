@@ -4,7 +4,7 @@
 
 ##
 
-CS student & InfoSec Intern focused on Blue Team, IR, Threat Hunting, CTI and DevSecOps.
+CS student & InfoSec Intern focused on Blue Team, IR, Threat Hunting, CTI, DevSecOps and AI Security.
 Background in software development — I break down how systems are built to understand how they fail.
 Here you'll find automation scripts, DFIR tooling and security labs.
 
