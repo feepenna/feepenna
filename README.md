@@ -4,11 +4,12 @@
 
 ##
 
-CS student & InfoSec Intern focused on Blue Team, IR, Threat Hunting, CTI, DevSecOps and AI Security.
+Information Security Intern at Banco Toyota do Brasil, focused on Blue Team/SOC, IR, Threat Hunting, vulnerability management, CTI, DevSecOps and AI Security.
+Hands-on with SAST/DAST on internal applications (Veracode, SonarQube) and building/deploying AI agents (Microsoft Foundry) — complementary to my IR work, not separate from it.
 Background in software development — I break down how systems are built to understand how they fail.
 Here you'll find automation scripts, DFIR tooling and security labs.
 
-🔵 Blue Team | 🔍 IR & Threat Hunting | 🐧 Linux
+🔵 Blue Team & IR | 🔍 Threat Hunting | 🛡️ AppSec/DevSecOps | 🤖 AI Security | 🐧 Linux
 
 <div>
 <img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
