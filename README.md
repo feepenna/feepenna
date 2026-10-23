@@ -1,6 +1,6 @@
 # Felipe Penna
 
-### Information Security Intern | Blue Team | IR | Threat Hunting | CTI | DevSecOps | AI Security
+### Information Security | SOC · Incident Response · SIEM/EDR | DevSecOps · AppSec | Security Automation & AI Agents
 
 ##
 
@@ -9,7 +9,7 @@ Hands-on with SAST/DAST on internal applications (Veracode, SonarQube) and build
 Background in software development — I break down how systems are built to understand how they fail.
 Here you'll find automation scripts, DFIR tooling and security labs.
 
-🔵 Blue Team & IR | 🔍 Threat Hunting | 🛡️ AppSec/DevSecOps | 🤖 AI Security | 🐧 Linux
+🔵 Blue Team & IR | 🔍 Threat Hunting | 🛡️ DevSecOps | 🤖 AI Security | 🐧 Linux
 
 <div>
 <img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
