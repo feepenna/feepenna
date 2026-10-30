@@ -4,12 +4,11 @@
 
 ##
 
-Information Security Intern at Banco Toyota do Brasil, focused on Blue Team/SOC, IR, Threat Hunting, vulnerability management, CTI, DevSecOps and AI Security.
-Hands-on with SAST/DAST on internal applications (Veracode, SonarQube) and building/deploying AI agents (Microsoft Foundry) — complementary to my IR work, not separate from it.
-Background in software development — I break down how systems are built to understand how they fail.
-Here you'll find automation scripts, DFIR tooling and security labs.
+Information Security Intern at a financial institution, working on SOC and Incident Response, with DevSecOps as a complementary focus: SAST/DAST on internal applications and AI agents that speed up security reviews. Background in software development — I break down how systems are built to understand how they fail.
 
-🔵 Blue Team & IR | 🛡️ DevSecOps | 🤖 AI Security | 🐧 Linux
+Here you'll find my security labs, automation scripts and write-ups.
+
+🔵 SOC & Incident Response | 🛡️ DevSecOps | 🤖 Security Automation & AI | 🐧 Linux
 
 <div>
 <img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
