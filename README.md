@@ -1,17 +1,15 @@
+<img src="assets/trace/trace_loop.svg" align="right" width="84" alt="TRACE-07, pixel-art F1 driver mascot" title="TRACE-07">
+
 # Felipe Penna
  
 ### Information Security | SOC · Incident Response | DevSecOps
  
 🔵 SOC & Incident Response · 🛡️ DevSecOps · 🤖 Security Automation & AI · 🐧 Linux
+
+<br clear="all">
  
 <img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
 </div>
-
-<p align="center">
-  <img src="assets/trace/trace_loop.svg" alt="TRACE-07, pixel-art F1 driver mascot" width="144">
-  <br>
-  <sub><b>TRACE-07</b> · DETECT. ANALYZE. DEFEND. ACCELERATE.</sub>
-</p>
  
 ## About
  
