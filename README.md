@@ -6,6 +6,12 @@
  
 <img src="https://raw.githubusercontent.com/feepenna/feepenna/output/snake.svg" alt="Snake animation" />
 </div>
+
+<p align="center">
+  <img src="assets/trace/trace_loop.svg" alt="TRACE-07, pixel-art F1 driver mascot" width="144">
+  <br>
+  <sub><b>TRACE-07</b> · DETECT. ANALYZE. DEFEND. ACCELERATE.</sub>
+</p>
  
 ## About
  

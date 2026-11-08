@@ -1,0 +1,91 @@
+{
+  "character": "TRACE-07",
+  "frame_size": [
+    48,
+    76
+  ],
+  "fps": 6,
+  "palette": [
+    "#05060C",
+    "#0E1224",
+    "#1C223C",
+    "#464E64",
+    "#788096",
+    "#B6BCCA",
+    "#ECEFF6",
+    "#123496",
+    "#1E6EFF",
+    "#6EAAFF"
+  ],
+  "states": {
+    "idle": {
+      "frames": 4,
+      "fps": 6,
+      "loop": true,
+      "playback": "loop",
+      "sheet": "trace_idle.png",
+      "preview": "trace_idle_preview.gif"
+    },
+    "thinking": {
+      "frames": 4,
+      "fps": 6,
+      "loop": true,
+      "playback": "loop",
+      "sheet": "trace_thinking.png",
+      "preview": "trace_thinking_preview.gif"
+    },
+    "working": {
+      "frames": 6,
+      "fps": 6,
+      "loop": true,
+      "playback": "loop",
+      "sheet": "trace_working.png",
+      "preview": "trace_working_preview.gif"
+    },
+    "success": {
+      "frames": 6,
+      "fps": 6,
+      "loop": false,
+      "playback": "once",
+      "sheet": "trace_success.png",
+      "preview": "trace_success_preview.gif"
+    },
+    "warning": {
+      "frames": 4,
+      "fps": 6,
+      "loop": true,
+      "playback": "loop",
+      "sheet": "trace_warning.png",
+      "preview": "trace_warning_preview.gif"
+    },
+    "error": {
+      "frames": 4,
+      "fps": 6,
+      "loop": true,
+      "playback": "loop",
+      "sheet": "trace_error.png",
+      "preview": "trace_error_preview.gif"
+    },
+    "greeting": {
+      "frames": 5,
+      "fps": 6,
+      "loop": false,
+      "playback": "once",
+      "sheet": "trace_greeting.png",
+      "preview": "trace_greeting_preview.gif"
+    }
+  },
+  "combined_sheet": {
+    "file": "trace_all.png",
+    "layout": "one state per row; frames left to right",
+    "row_order": [
+      "idle",
+      "thinking",
+      "working",
+      "success",
+      "warning",
+      "error",
+      "greeting"
+    ]
+  }
+}
