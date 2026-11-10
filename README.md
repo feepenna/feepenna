@@ -2,9 +2,9 @@
  
 <img src="assets/trace/trace_loop.svg" align="right" width="60" alt="TRACE-07, pixel-art F1 driver mascot" title="TRACE-07">
 
-### Information Security | SOC · Incident Response | DevSecOps
+### Information Security | SOC · Incident Response | AppSec
  
-🔵 SOC & Incident Response · 🛡️ DevSecOps · 🤖 Security Automation & AI · 🐧 Linux
+🔵 SOC & Incident Response · 🛡️ AppSec · 🤖 Security Automation & AI · 🐧 Linux
 
 <br clear="all">
  
@@ -13,7 +13,7 @@
  
 ## About
  
-Information Security Intern at a financial institution, working on **SOC and Incident Response**, with **DevSecOps** as a complementary focus: SAST/DAST on internal applications and AI agents that speed up security reviews.
+Information Security Intern at a financial institution, working on **SOC and Incident Response**, with **AppSec** as a complementary focus: SAST/DAST on internal applications and AI agents that speed up security reviews.
  
 Background in software development. I break down how systems are built to understand how they fail.
  
