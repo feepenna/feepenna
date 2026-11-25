@@ -4,7 +4,7 @@
 
 ### Information Security | SOC & Blue Team | Incident Response | AppSec (SAST/DAST) | Zero Trust | Defender XDR · Sentinel · CrowdStrike
  
-🔵 SOC & Incident Response · 🛡️ AppSec · 🤖 Security Automation & AI · 🐧 Linux
+🔵 SOC & Blue Team · 🚨 Incident Response · 🛡️ AppSec · 🔐 Zero Trust · 🤖 Security Automation & AI
 
 <br clear="all">
  
@@ -13,9 +13,11 @@
  
 ## About
  
-Information Security Intern at a financial institution, working on **SOC and Incident Response**, with **AppSec** as a complementary focus: SAST/DAST on internal applications and AI agents that speed up security reviews.
- 
-Background in software development. I break down how systems are built to understand how they fail.
+Information Security Intern at a financial institution, on the **Blue Team**: alert triage and investigation with SIEM, EDR and XDR, and **incident response** under tight deadlines.
+
+On the side of that, I work on **AppSec** (SAST/DAST on internal applications, plus AI agents that speed up security reviews with human sign-off) and help with the move to **Zero Trust (ZTNA)**.
+
+Background in software development and IT support. I break down how systems are built to understand how they fail.
  
 ## What you'll find here
  
