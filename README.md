@@ -2,7 +2,7 @@
  
 <img src="assets/trace/trace_loop.svg" align="right" width="60" alt="TRACE-07, pixel-art F1 driver mascot" title="TRACE-07">
 
-### Information Security | SOC · Incident Response | AppSec
+### Information Security | SOC & Blue Team | Incident Response | AppSec (SAST/DAST) | Zero Trust | Defender XDR · Sentinel · CrowdStrike
  
 🔵 SOC & Incident Response · 🛡️ AppSec · 🤖 Security Automation & AI · 🐧 Linux
 
